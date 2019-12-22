@@ -26,3 +26,9 @@ Build Guide:
 	- Alpha_1.0
 		- First level with minor graphical and mechanical bugs
 		- First Quick Time Event with two actions
+	- Beta_1.1
+		-First Level with minor graphical and mechanical bugs
+		-First Quick Time Event
+		-Second Level with minor mechanical bugs
+		-Second Quick Time Event
+		-Boss Level with severe bugs and inability to finish boss level
