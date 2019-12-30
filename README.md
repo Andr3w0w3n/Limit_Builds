@@ -1,5 +1,13 @@
 # Limit_Builds
 
+******************************************************************************************************
+Limit Description:
+
+You play as a student suddenly thrown into a world of chaos as meteors rain down on your city.
+You make your way towards the nuclear reactor in the city which you think is the source of the chaos.
+Will you be able to stop hell on earth?
+******************************************************************************************************
+
 
 Launch Game Instructions:
 
@@ -40,6 +48,6 @@ Build Guide:
 	- Beta_1.1
 		-First Level with minor graphical and mechanical bugs
 		-First Quick Time Event
-		-Second Level with minor mechanical bugs
+		-Second Level with minor mechanical bugs and need of graphical update
 		-Second Quick Time Event
 		-Boss Level with severe bugs and inability to finish boss level
